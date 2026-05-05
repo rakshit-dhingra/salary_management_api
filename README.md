@@ -12,6 +12,10 @@ A production-grade HR salary management platform for organisations with up to **
 
 ---
 
+> 📄 This project includes detailed engineering artifacts:
+> - [AI Usage](./docs/ai-usage.md)
+> - [System Design](./docs/design.md)
+
 ## 📸 Screenshots
 
 ### 👥 Employees Dashboard
@@ -228,3 +232,30 @@ If you found this useful, give it a ⭐ on GitHub!
 ## 🧾 License
 
 MIT
+
+---
+
+## 🤖 AI Usage
+
+This project was built using AI tools as an **engineering accelerator**, not a replacement for decision-making.
+
+- Used for scaffolding, SQL exploration, and test structure
+- All outputs were **validated, tested, and refined manually**
+- Final architecture and performance decisions were **human-driven**
+
+👉 Full details: [AI Usage Documentation](./docs/ai-usage.md)
+
+---
+
+## 🏗️ System Design
+
+The system is designed with a **database-first approach**, pushing analytics computation to PostgreSQL for performance and scalability.
+
+Key highlights:
+- SQL-based analytics (`PERCENTILE_CONT`, `WIDTH_BUCKET`)
+- Optimized indexing strategy
+- Incremental scalability plan (10k → 1M users)
+
+👉 Full details: [Design Document](./docs/design.md)
+
+---
