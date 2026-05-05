@@ -23,8 +23,6 @@ A production-grade HR salary management platform for organisations with up to **
 ### 📈 Salary Distribution Histogram
 ![Histogram](./docs/histogram.png)
 
-> Place screenshots inside a `/docs` folder
-
 ---
 
 ## ✨ Features
