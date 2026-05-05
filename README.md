@@ -15,7 +15,7 @@ A production-grade HR salary management platform for organisations with up to **
 > 📄 Engineering Artifacts:
 > - 🤖 [AI Usage](./docs/ai-usage.md)
 > - 🏗️ [System Design](./docs/design.md)
-> - 🎥 [Click here to watch demo](./docs/demo.mp4)
+> - 🎥 [Click here to watch demo](https://github.com/rakshit-dhingra/salary_management_api/releases/tag/demo-video)
 
 ## 📸 Screenshots
 
