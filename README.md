@@ -12,9 +12,10 @@ A production-grade HR salary management platform for organisations with up to **
 
 ---
 
-> 📄 This project includes detailed engineering artifacts:
-> - [AI Usage](./docs/ai-usage.md)
-> - [System Design](./docs/design.md)
+> 📄 Engineering Artifacts:
+> - 🤖 [AI Usage](./docs/ai-usage.md)
+> - 🏗️ [System Design](./docs/design.md)
+> - 🎥 Demo Video(./docs/demo.mov)
 
 ## 📸 Screenshots
 
