@@ -6,7 +6,7 @@ export function Sidebar() {
       <div className="sidebar-brand">
         <div className="brand-icon">🏢</div>
         <div>
-          <div className="brand-name">PeopleOps</div>
+          <div className="brand-name">Incubyte</div>
           <div className="brand-sub">HR Platform</div>
         </div>
       </div>
@@ -20,7 +20,7 @@ export function Sidebar() {
         </NavLink>
       </nav>
 
-      <div className="sidebar-footer">PeopleOps v1.0</div>
+      <div className="sidebar-footer">Incubyte v1.0</div>
     </aside>
   )
 }
